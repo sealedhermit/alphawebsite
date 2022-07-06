@@ -27,10 +27,10 @@ params:
   disableThemeToggle: false
 
   staticman:
-      api: = "https://staticmonk.herokuapp.com/v2/entry"
-      username: "sealedhermit"
-      repository: "alphawebsite"
-      branch: "master"
+      api: https://staticmonk.herokuapp.com/v2/entry/sealedhermit/alphawebsite/master/comments
+      username: sealedhermit
+      repository: alphawebsite
+      branch: master
 
   ShowReadingTime: true
   ShowShareButtons: true
